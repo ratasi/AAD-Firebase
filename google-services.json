@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435760269068",
+    "firebase_url": "https://aadfirebase.firebaseio.com",
+    "project_id": "aadfirebase",
+    "storage_bucket": "aadfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435760269068:android:7f97d489ac69b31d",
+        "android_client_info": {
+          "package_name": "com.example.rafatarrega.aadfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435760269068-f0jd4a29u3isag2srd416rka1t5bh35k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rafatarrega.aadfirebase",
+            "certificate_hash": "5c88c794ec2d686e3112df3f8257f402b1f05366"
+          }
+        },
+        {
+          "client_id": "435760269068-6p0puthjc8ock5jcnf2ugsg792do6mot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa8V8hbpVxl0Wyar82WQbGo3qzDPvUHJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435760269068-6p0puthjc8ock5jcnf2ugsg792do6mot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

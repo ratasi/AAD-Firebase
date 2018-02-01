@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AADFirebase</string>
+    
+    
+    <!-- Nodo Firebase -->
+    <string name="nodo_usuarios">usuarios</string>
+    
+    <!-- Campos de los nodos --> 
+    <string name="campo_nickname">nickname</string>
+    <string name="campo_nombre">nombre</string>
+    <string name="campo_apellido">apellido</string>
+    <string name="campo_direccion">direccion</string>
+    <string name="campo_mail">nickname</string>
+
+</resources>
